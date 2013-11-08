@@ -6,8 +6,8 @@ Turbine-Geometry-AutoMagic (TGAM)
 ====================
 This project provides the user a Python class which allows the them to specify a number of parameters in order to automagically generate the geometry (and mesh) of a wind/tidal turbine in Cubit.  
 [Link to the TGAM project](http://github.com/fmilthaler/turbine-geometry-automagic)  
+[Cubit website](http://cubit.sandia.gov)  
 [Demonstration on YouTube](http://youtu.be/CPQyoHOI3m8)
-[Cubit website](http://cubit.sandia.gov)
 
 Py2PGFPlotsTable
 ====================

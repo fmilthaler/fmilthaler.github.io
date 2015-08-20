@@ -9,6 +9,11 @@ This project provides the user a Python class which allows the them to specify a
 [Cubit website](http://cubit.sandia.gov)  
 [Demonstration on YouTube](http://youtu.be/CPQyoHOI3m8)
 
+HPCMonitor
+====================
+This project provides a Python class aims to automate tasks associated with running jobs on HPC systems, e.g. estimation of required number of cores, data analysis/crunching, text processing, error checking, automatic e-mail reports. It is a very effective and useful tool especially when thousands of simulations are running simultaneously.
+[Link to HPCMonitor](http://github.com/fmilthaler/HPCMonitor)
+
 Py2PGFPlotsTable
 ====================
 This project aims to automate the process, thus to fill the gap between generating data and writing the corresponding LaTeX commands to create a table. The comprehensive and package PGFPlotsTable is used on the LaTeX front.  

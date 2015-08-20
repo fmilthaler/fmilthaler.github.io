@@ -11,7 +11,7 @@ This project provides the user a Python class which allows the them to specify a
 
 HPCMonitor
 ====================
-This project provides a Python class aims to automate tasks associated with running jobs on HPC systems, e.g. estimation of required number of cores, data analysis/crunching, text processing, error checking, automatic e-mail reports. It is a very effective and useful tool especially when thousands of simulations are running simultaneously.
+This project provides a Python class aims to automate tasks associated with running jobs on HPC systems, e.g. estimation of required number of cores, data analysis/crunching, text processing, error checking, automatic e-mail reports. It is a very effective and useful tool especially when thousands of simulations are running simultaneously.  
 [Link to HPCMonitor](http://github.com/fmilthaler/HPCMonitor)
 
 Py2PGFPlotsTable

@@ -1,0 +1,4 @@
+Note:
+* To set up ruby/jekyll, read this: https://help.github.com/articles/using-jekyll-with-pages/
+* To run jekyll, run `bundle exec jekyll serve` and the site will be available at 'http://localhost:4000'
+* More info on jekyll: http://jekyllrb.com/docs/usage/

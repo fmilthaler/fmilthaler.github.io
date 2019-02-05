@@ -2,6 +2,21 @@ fmilthaler.github.io
 ====================
 This is an overview of my current projects.
 
+
+FinQuant
+====================
+FinQuant is a program for financial portfolio management, analysis and optimisation. It is designed to generate an object that holds your data, e.g. stock prices of different stocks, which automatically computes the most common quantities, such as Expected annual Return, Volatility and Sharpe Ratio. Moreover, it provides a library for computing different kinds of Returns and visualising Moving Averages and Bollinger Bands. Finally, given a set of stocks, it also allows for finding optimised portfolios.
+
+FinQuant is made to be easily extended. I hope it proves itself useful for hobby investors, students, geeks, and the intellectual curious.
+
+[FinQuant on GitHub](https://github.com/fmilthaler/FinQuant)  
+[FinQuant on PyPI](https://pypi.org/project/FinQuant)  
+[FinQuant Documentation](https://finquant.readthedocs.io)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fmilthaler/finquant/master/images/ef-mc-overlay.svg?sanitize=true" width="60%">
+</p>
+
 Turbine-Geometry-AutoMagic (TGAM)
 ====================
 This project provides the user a Python class which allows the them to specify a number of parameters in order to automagically generate the geometry (and mesh) of a wind/tidal turbine in Cubit.  
